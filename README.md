@@ -2,5 +2,5 @@
 
 
 <div align="center">
-  <img src="XOgame.png" alt="XO Game" width="300"/>
+  <img src="XOgame.png" alt="XO Game"/>
 </div>
